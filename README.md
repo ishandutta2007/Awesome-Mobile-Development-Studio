@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Mobile-Development-Studio/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mobile-Development-Studio?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Mobile-Development-Studio/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mobile-Development-Studio?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-Development-Studio/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Mobile-Development-Studio?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-Development-Studio/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-Development-Studio/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -83,7 +83,7 @@ The following hosted mobile studios are sorted in **descending order by company 
 
 ## 🔓 Open-Source GitHub Projects
 
-The following open-source visual app builders, low-code platforms, and mobile development studios are sorted in **descending order by GitHub star count**.
+The following open-source visual app builders, low-code platforms, and mobile development studios are sorted in **descending order by GitHub Stars_Count**.
 
 | 🌟 Open-Source Repository | 🏷️ License | 📱 Mobile & Visual Capabilities | 💻 Primary Tech Stack |
 | :--- | :--- | :--- | :--- |
